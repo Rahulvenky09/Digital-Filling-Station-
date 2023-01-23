@@ -1,5 +1,5 @@
 # Digital-Filling-Station-
-Digital Filling Station With Ladder Logic Programming
+Digital Filling Station With PLC Ladder Logic Programming
 
 Design and Implementation of Digital Filling Station
 
